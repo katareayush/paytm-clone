@@ -23,4 +23,20 @@
 - **config.js**
   - Stores the JWT_SECRET.
   - *Note: In a real-world scenario, confidential information such as JWT_SECRET and database URLs should be stored in a .env file.*
+  <br>
+  <br>
+  <br>
 
+<img>![alt text](image.png)</img>
+<br>
+<br>
+<br>
+<img>![alt text](image-1.png)</img>
+<br>
+<br>
+<br>
+<img>![alt text](./image-2.png)</img>
+<br>
+<br>
+<br>
+<img>![alt text](./image-3.png)</img>
